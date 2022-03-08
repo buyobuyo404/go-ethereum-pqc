@@ -5,7 +5,7 @@ This ia a fork of ethereum-pqc, we want to use this project to research the migr
 Now we integrate NIST Post-Quantum Cryptography Standardization Round 3 Submissions Digital Signature Algorithms Finalists through Open Quantum Safe's liboqs/liboqs-go.
 And Modifie Tx to study the impact of signature algorithms on transactions.
 
-cqu_mercury
+cqu_mercury_buyobuyo
 
 ----
 Below is the Go Ethereum original readme file.
